@@ -1,0 +1,3 @@
+timestamp,rating,review,user_response,summary,recommended_action
+2025-12-14 17:52:57.172298,3,Nice one,Thank you for your feedback.,Error generating summary.,Review manually.
+2025-12-14 17:59:44.997263,5,Best,Thank you for your feedback.,Error generating summary.,Review manually.
