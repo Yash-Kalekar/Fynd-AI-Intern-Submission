@@ -7,7 +7,7 @@ init_storage()
 st.set_page_config("Admin Dashboard", layout="wide")
 st.title("Admin Dashboard")
 
-USER_APP_URL = "https://your-user-app.streamlit.app"
+USER_APP_URL = "https://fynd-ai-intern-submission-user.streamlit.app/"
 
 st.markdown(f"🔗 [Go to User Dashboard]({USER_APP_URL})")
 
